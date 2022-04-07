@@ -15,12 +15,8 @@ footer {
     text-align: center;   
 }
 
-.home-page {
-    margin-right: 10px;
-}
-
-.contact-page {
-    margin-left: 10px;
+footer a {
+    margin: 0 10px;
 }
 
 .croissant-photo {
