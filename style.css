@@ -1,0 +1,31 @@
+body {
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    display: block;
+    text-align: center;   
+}
+
+.home-page {
+    margin-right: 10px;
+}
+
+.contact-page {
+    margin-left: 10px;
+}
+
+.croissant-photo {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
